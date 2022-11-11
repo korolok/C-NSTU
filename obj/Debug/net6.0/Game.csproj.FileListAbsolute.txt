@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Evgeniy_Game\bin\Debug\net6.0\Evgeniy_Game.exe
+C:\Users\Admin\source\repos\Evgeniy_Game\bin\Debug\net6.0\Evgeniy_Game.deps.json
+C:\Users\Admin\source\repos\Evgeniy_Game\bin\Debug\net6.0\Evgeniy_Game.runtimeconfig.json
+C:\Users\Admin\source\repos\Evgeniy_Game\bin\Debug\net6.0\Evgeniy_Game.dll
+C:\Users\Admin\source\repos\Evgeniy_Game\bin\Debug\net6.0\Evgeniy_Game.pdb
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.dll
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\refint\Evgeniy_Game.dll
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.pdb
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\Evgeniy_Game.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Evgeniy_Game\obj\Debug\net6.0\ref\Evgeniy_Game.dll
